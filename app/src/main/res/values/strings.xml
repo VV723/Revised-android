@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Ahead Beyond</string>
+
+    <string name="ok">OK</string>
+    <string name="net_error">Networking Error!</string>
+    <string name="login_error">Login Error!</string>
+    <string name="login_pw_error">Email or password was incorrect</string>
+    <string name="net_alert">Please check your internet connection.</string>
+    <string name="signup_error">Sign Up Error!</string>
+    <string name="signup_duplicate">Duplicate email!</string>
+
+    <string name="signin">Sign in</string>
+    <string name="signup">Sign up</string>
+    <string name="login">Log in</string>
+    <string name="register">Register</string>
+    <string name="code">Code</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="checkin">I certify that\nI am an HCP</string>
+    <string name="menu">Menu</string>
+    <string name="forgetpassword">Forget Password</string>
+    <string name="sendmail">Send email</string>
+    <string name="welcome">Welcome</string>
+    <string name="start">Start</string>
+    <string name="agenda">Agenda</string>
+    <string name="speakers">Faculty</string>
+    <string name="voting">Voting</string>
+    <string name="gallery">Gallery</string>
+    <string name="map">Logistics</string>
+    <string name="contact">Contact</string>
+    <string name="speakerbio">Speaker BIO</string>
+
+    <string name="friday13">  Friday, October 13   </string>
+    <string name="friday14">  Friday, October 14   </string>
+
+    <string name="register_success">You have been\n registered\n successfully</string>
+    <string name="sent_mail_success">You Password has\n been successfully sent\n to your email</string>
+    <string name="google_android_map_api_key">AIzaSyDNfK_xoOCOJvYTZHam-Dkw8xafY8YDk3E</string>
+
+</resources>
